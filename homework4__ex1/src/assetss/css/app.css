@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App {
+    text-align: center;
+}
+.title {
+margin: 10px;
+height: 30px;
+width: 30px;
+
+}
+.btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 100% ;
+    margin: 5px;
+    
+}
+.red {
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+.green {
+    background-color: green;
+}
